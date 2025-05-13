@@ -1,0 +1,4 @@
+/Users/tanhao/Github/LearnCpp/cmake-build-debug/CMakeFiles/thread.dir
+/Users/tanhao/Github/LearnCpp/cmake-build-debug/CMakeFiles/template.dir
+/Users/tanhao/Github/LearnCpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tanhao/Github/LearnCpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
